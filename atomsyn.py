@@ -1,3 +1,13 @@
+'''
+dcsdc
+
+
+csds
+
+'''
+
 def myfunc():
-    pass
-    
+    print('Prueba de triples comillas')
+
+
+myfunc()
